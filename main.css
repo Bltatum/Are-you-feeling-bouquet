@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.flowers{
+    border: solid;
+    padding: 1rem;
+}
+.retailers{
+    border: solid;
+    padding: 1rem;
+}
+.distributers{
+    border: solid;
+    padding: 1rem;
+}
+
+h1{
+    text-decoration: underline;
+}
