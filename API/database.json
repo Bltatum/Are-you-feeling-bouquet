@@ -79,22 +79,117 @@
                "name": "Tatum & Co",
                "city": "Gallatin",
                "state": "TN",
-               "address": "1000 belvedere dr, 37066"
+               "address": "1000 belvedere dr, 37066",
+               "nursery1Id": 1,
+               "nursery2Id": 2
            },
            {
             "id": 2,
             "name": "Montgomery & sons",
             "city": "gladeville",
             "state": "TN",
-            "address": "872 southgate dr, 37120"
+            "address": "872 southgate dr, 37120",
+            "nursery1Id": 2,
+            "nursery2Id": 3
         },
         {
             "id": 3,
             "name": "Froghollow",
             "city": "Station Camp",
             "state": "TN",
-            "address": "1074 hauntings dr, 37066"
+            "address": "1074 hauntings dr, 37066",
+            "nursery1Id": 4,
+            "nursery2Id": 5
         }
+       ],
+       "nurseries": [
+          {
+             "id": 1,
+             "name": "A Nursery",
+             
+
+          },
+          {
+            "id": 2,
+            "name": "B Nursery",
+            
+
+
+         },
+         {
+            "id": 3,
+            "name": "C Nursery",
+           
+
+
+         },
+         {
+            "id": 4,
+            "name": "D Nursery",
+            
+
+
+         },
+         {
+            "id": 5,
+            "name": "E Nursery"
+           
+
+
+         }
+       ],
+       "nurseryDistributer": [
+          {
+             "id": 1,
+             "nurseryId": 1,
+             "distributerId": 1 
+          },
+          {
+            "id": 2,
+            "nurseryId": 2,
+            "distributerId": 2
+         },
+         {
+            "id": 3,
+            "nurseryId": 3,
+            "distributerId": 3
+         },
+         {
+            "id": 4,
+            "nurseryId": 4,
+            "distributerId": 1
+         },
+         {
+            "id": 5,
+            "nurseryId": 5,
+            "distributerId": 3
+         },
+         {
+            "id": 6,
+            "nurseryId": 2,
+            "distributerId": 2 
+         },
+         {
+            "id": 7,
+            "nurseryId": 3,
+            "distributerId": 3
+         },
+         {
+            "id": 8,
+            "nurseryId": 4,
+            "distributerId": 1
+         },
+         {
+            "id": 9,
+            "nurseryId": 5,
+            "distributerId": 2
+         },
+         {
+            "id": 10,
+            "nurseryId": 1,
+            "distributerId": 3
+         },
+          
        ]
     }
 
