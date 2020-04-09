@@ -8,6 +8,6 @@ import { distributerList } from "./distributers/distributersList.js";
 getFlowers()
 .then(flowerList)
 .then(getRetailers)
-.then(retailerList)
 .then(getDistributers)
+.then(retailerList)
 .then(distributerList)
