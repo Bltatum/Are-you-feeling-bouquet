@@ -1,0 +1,96 @@
+{
+    "flowers": [
+        {
+           "id": 1,
+           "type": "rose"
+
+        },
+         {
+           "id": 2,
+           "type": "orchid"
+
+        },
+        {
+           "id": 3,
+           "type": "daffodil"
+   
+        },
+        {
+          "id": 4,
+          "type": "iris"
+   
+        },
+        {
+          "id": 5,
+          "type": "sunflower"
+   
+        }
+    ],
+    
+    "retailers": [
+        {
+            "id": 1,
+            "name": "The Garden",
+            "city": "Nashville",
+            "state": "TN",
+            "address": "12 east main st, 37206"
+ 
+         },
+          {
+            "id": 2,
+            "name": "Flower House",
+            "city": "Smyrna",
+            "state": "TN",
+            "address": "345 sam ridley pkwy, 37303"
+         },
+         {
+            "id": 3,
+            "name": "The Greenhouse",
+            "city": "Hendersoville",
+            "state": "TN",
+            "address": "5678 indian lake blvd, 372099"
+    
+         },
+         {
+           "id": 4,
+           "name": "1-800-flowers",
+           "city": "Lebanon",
+            "state": "TN",
+            "address": "8796 south main st., 37320"
+    
+         },
+         {
+           "id": 5,
+           "name": "Gallatin Flower Co.",
+           "city": "Gallatin",
+           "state": "TN",
+           "address": "1329 belvedere dr, 37066"
+
+    
+         } 
+    ],
+       "distributers": [
+           {
+               "id": 1,
+               "name": "Tatum & Co",
+               "city": "Gallatin",
+               "state": "TN",
+               "address": "1000 belvedere dr, 37066"
+           },
+           {
+            "id": 2,
+            "name": "Montgomery & sons",
+            "city": "gladeville",
+            "state": "TN",
+            "address": "872 southgate dr, 37120"
+        },
+        {
+            "id": 3,
+            "name": "Froghollow",
+            "city": "Station Camp",
+            "state": "TN",
+            "address": "1074 hauntings dr, 37066"
+        }
+       ]
+    }
+
