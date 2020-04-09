@@ -33,22 +33,24 @@
             "name": "The Garden",
             "city": "Nashville",
             "state": "TN",
-            "address": "12 east main st, 37206"
- 
+            "address": "12 east main st, 37206",
+            "distributerId": 1
          },
           {
             "id": 2,
             "name": "Flower House",
             "city": "Smyrna",
             "state": "TN",
-            "address": "345 sam ridley pkwy, 37303"
+            "address": "345 sam ridley pkwy, 37303",
+            "distributerId": 2
          },
          {
             "id": 3,
             "name": "The Greenhouse",
             "city": "Hendersoville",
             "state": "TN",
-            "address": "5678 indian lake blvd, 372099"
+            "address": "5678 indian lake blvd, 372099",
+            "distributerId": 3
     
          },
          {
@@ -56,7 +58,8 @@
            "name": "1-800-flowers",
            "city": "Lebanon",
             "state": "TN",
-            "address": "8796 south main st., 37320"
+            "address": "8796 south main st., 37320",
+            "distributerId": 2
     
          },
          {
@@ -64,7 +67,8 @@
            "name": "Gallatin Flower Co.",
            "city": "Gallatin",
            "state": "TN",
-           "address": "1329 belvedere dr, 37066"
+           "address": "1329 belvedere dr, 37066",
+           "distributerId": 3
 
     
          } 
