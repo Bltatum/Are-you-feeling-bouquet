@@ -51,7 +51,6 @@
             "state": "TN",
             "address": "5678 indian lake blvd, 372099",
             "distributerId": 3
-    
          },
          {
            "id": 4,
@@ -60,7 +59,6 @@
             "state": "TN",
             "address": "8796 south main st., 37320",
             "distributerId": 2
-    
          },
          {
            "id": 5,
@@ -69,8 +67,6 @@
            "state": "TN",
            "address": "1329 belvedere dr, 37066",
            "distributerId": 3
-
-    
          } 
     ],
        "distributers": [
@@ -80,6 +76,7 @@
                "city": "Gallatin",
                "state": "TN",
                "address": "1000 belvedere dr, 37066"
+               
            },
            {
             "id": 2,
@@ -87,6 +84,7 @@
             "city": "gladeville",
             "state": "TN",
             "address": "872 southgate dr, 37120"
+            
         },
         {
             "id": 3,
@@ -94,7 +92,149 @@
             "city": "Station Camp",
             "state": "TN",
             "address": "1074 hauntings dr, 37066"
+            
         }
+       ],
+       "nurseries": [
+          {
+             "id": 1,
+             "name": "A Nursery"
+             
+
+          },
+          {
+            "id": 2,
+            "name": "B Nursery"
+            
+
+
+         },
+         {
+            "id": 3,
+            "name": "C Nursery"
+           
+
+
+         },
+         {
+            "id": 4,
+            "name": "D Nursery"
+            
+
+
+         },
+         {
+            "id": 5,
+            "name": "E Nursery"
+           
+
+
+         }
+       ],
+       "nurseryDistributer": [
+          {
+             "id": 1,
+             "nurseryId": 1,
+             "distributerId": 1,
+             "flowerId": 1
+          },
+          {
+            "id": 2,
+            "nurseryId": 2,
+            "distributerId": 2,
+            "flowerId": 2
+         },
+         {
+            "id": 3,
+            "nurseryId": 3,
+            "distributerId": 3,
+            "flowerId": 3
+         },
+         {
+            "id": 4,
+            "nurseryId": 4,
+            "distributerId": 1,
+            "flowerId": 4
+         },
+         {
+            "id": 5,
+            "nurseryId": 5,
+            "distributerId": 3,
+            "flowerId": 5
+         },
+         {
+            "id": 6,
+            "nurseryId": 2,
+            "distributerId": 2,
+            "flowerId": 1 
+         },
+         {
+            "id": 7,
+            "nurseryId": 3,
+            "distributerId": 3,
+            "flowerId": 2
+         },
+         {
+            "id": 8,
+            "nurseryId": 4,
+            "distributerId": 1,
+            "flowerId": 3
+         },
+         {
+            "id": 9,
+            "nurseryId": 5,
+            "distributerId": 2,
+            "flowerId": 4
+         },
+         {
+            "id": 10,
+            "nurseryId": 1,
+            "distributerId": 3,
+            "flowerId": 5
+         }
+          
+       ],
+       "nurseryFlowers": [
+          {
+             "id": 1,
+             "nurseryId": 1,
+             "flowerId": 1
+          },
+          {
+            "id": 1,
+            "nurseryId": 1,
+            "flowerId": 2
+         },
+         {
+            "id": 1,
+            "nurseryId": 2,
+            "flowerId": 3
+         },
+         {
+            "id": 1,
+            "nurseryId": 2,
+            "flowerId": 4
+         },
+         {
+            "id": 1,
+            "nurseryId": 3,
+            "flowerId": 5
+         },
+         {
+            "id": 1,
+            "nurseryId": 3,
+            "flowerId": 1
+         },
+         {
+            "id": 1,
+            "nurseryId": 4,
+            "flowerId": 2
+         },
+         {
+            "id": 1,
+            "nurseryId": 4,
+            "flowerId": 3
+         }
        ]
     }
 
